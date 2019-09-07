@@ -1,0 +1,12 @@
+Origin: Lucas Holl's Repo
+Label: Lucas Holl's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: This repo will host my projects
+
+SHA256:
+ a8240a521e13874749c2606a7b5f6ac7dd763991bf5220940efc82bf9d130a3b 547 Packages.bz2
+ 115c609454424d86bd569f3bd4b7df64e7d5bf0c1007987d3de1c54ed29b3063 536 Packages.xz
