@@ -5,8 +5,8 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: This repo will host my projects
+Description: A repo for my stuff.
 
 SHA256:
- a8240a521e13874749c2606a7b5f6ac7dd763991bf5220940efc82bf9d130a3b 547 Packages.bz2
- 115c609454424d86bd569f3bd4b7df64e7d5bf0c1007987d3de1c54ed29b3063 536 Packages.xz
+ 845583d73577d2cc792403421c58fdfa57d20de9c0e75b11da50748225ceef7c 547 Packages.bz2
+ f8cb6da187b9175b416a295a038c0e830fbe543d89274afede3323ad5157ed28 536 Packages.xz
