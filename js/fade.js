@@ -1,5 +1,5 @@
 //Credit to @myfunkyside for the original code from https://stackoverflow.com/questions/26694385/fade-in-on-scroll-down-fade-out-on-scroll-up-based-on-element-position-in-win
-//
+//Edited by me to suit my needs.
 
 $(window).on("load",function() 
 {
